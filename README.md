@@ -1,4 +1,4 @@
-# IC Innovations - Tech & Business Management Consultancy
+# IC Innovations - Tech & Business Management Consultancy Plateform
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
