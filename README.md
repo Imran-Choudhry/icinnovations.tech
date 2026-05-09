@@ -1,5 +1,3 @@
-# icinnovations.tech
-Turning Ideas into Digital Reality 
 # IC Innovations - Tech & Business Management Consultancy Platform
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
